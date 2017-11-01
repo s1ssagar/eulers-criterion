@@ -1,0 +1,1 @@
+Solution to HackerRank "eulers-criterion" problem in mathematics/Number Theory section
